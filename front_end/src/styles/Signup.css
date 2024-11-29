@@ -1,0 +1,11 @@
+.login-container {
+    min-height: 100vh;
+    background-image: url('/images/medicine-bg.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .card {
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 10px;
+  }

@@ -1,0 +1,14 @@
+.hero {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .features .card {
+    margin-bottom: 20px;
+  }
+  

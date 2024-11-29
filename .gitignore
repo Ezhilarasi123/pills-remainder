@@ -1,0 +1,34 @@
+# Front-end dependencies
+/front_end/node_modules
+/front_end/.pnp
+/front_end.pnp.js
+
+# Front-end testing
+/front_end/coverage
+
+# Front-end production build
+/front_end/build
+
+# Front-end misc
+/front_end/.DS_Store
+/front_end/.env.local
+/front_end/.env.development.local
+/front_end/.env.test.local
+/front_end/.env.production.local
+
+# General logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Back-end dependencies
+/back_end/node_modules
+
+# Back-end misc
+/back_end/.env
+/back_end/.env.local
+/back_end/.env.development
+/back_end/.env.production
+
+# General IDE and system files
+.DS_Store

@@ -1,0 +1,12 @@
+.login-container {
+  min-height: 100vh;
+  background-color: rgb(47, 255, 158) ;/* Fallback color */
+  background-size: cover;
+  background-position: center;
+}
+
+  
+  .card {
+    background: hsla(0, 0%, 100%, 0.85);
+    border-radius: 10px;
+  }
