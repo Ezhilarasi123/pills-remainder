@@ -25,10 +25,11 @@ yarn-error.log*
 /back_end/node_modules
 
 # Back-end misc
-/back_end/.env
-/back_end/.env.local
-/back_end/.env.development
-/back_end/.env.production
+/backend/.env
+/backend/.env.local
+/backend/.env.development
+/backend/.env.production
 
 # General IDE and system files
 .DS_Store
+
