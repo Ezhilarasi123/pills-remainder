@@ -22,7 +22,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Back-end dependencies
-/back_end/node_modules
+/backend/node_modules
 
 # Back-end misc
 /backend/.env
