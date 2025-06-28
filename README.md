@@ -1,7 +1,7 @@
 # Pills Reminder
 
 ## Overview
-**Pills Reminder** is a web application designed to help individuals who take regular medications stay on track with their schedules. In today’s fast-paced world, many people forget to take their medicines on time, which can lead to serious health complications. To address this issue, **Pills Reminder** offers timely reminders and notifications, ensuring users never miss their doses.
+**Pills Reminder** is a web application designed to help individuals who take regular medications stay on track with their schedules. In today’s fast-paced world, many people forget to take their medicines on time, which can lead to serious health complications.To address this issue, **Pills Reminder** offers timely reminders and notifications, ensuring users never miss their doses.
 
 Additionally, the website notifies users when it's time to refill their medications, making it easier to maintain a consistent supply.
 
