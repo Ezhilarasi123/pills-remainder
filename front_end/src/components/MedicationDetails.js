@@ -115,7 +115,7 @@ const MedicineTracker = () => {
   const handlePrevious = () => setStep(step - 1);
 
   return (
-    <Container className="mt-5">
+    <Container className="mt-5" >
       <Card className="p-4 shadow">
         <h4 style={{textAlign:" center"}}> Track Your Medication </h4>
       <ProgressBar 
